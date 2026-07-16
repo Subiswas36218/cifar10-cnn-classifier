@@ -48,7 +48,7 @@ data/
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Subiswas36218/cifar10-cnn-classifier
 
 cd cifar10-cnn-classifier
 
@@ -111,6 +111,9 @@ http://localhost:8000/docs
 
 ```bash
 streamlit run src/app.py
+
+Open:
+http://localhost:8501/
 ```
 
 ---
