@@ -111,10 +111,9 @@ http://localhost:8000/docs
 
 ```bash
 streamlit run src/app.py
-
+```
 Open:
 http://localhost:8501/
-```
 
 ---
 
