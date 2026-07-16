@@ -15,7 +15,7 @@ Click **Fork** on GitHub.
 Clone your fork:
 
 ```bash
-git clone https://github.com/<your-username>/cifar10-cnn-classifier.git
+git clone https://github.com/Subiswas36218/cifar10-cnn-classifier.git
 
 cd cifar10-cnn-classifier
 ```
@@ -148,7 +148,7 @@ http://localhost:8000/docs
 ```bash
 streamlit run src/app.py
 ```
-
+Open: http://localhost:8501/
 ---
 
 # Commit Messages
